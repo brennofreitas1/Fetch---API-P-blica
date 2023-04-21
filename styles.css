@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+.div{
+    text-align: center;   
+}
+
+.h1{
+    color: white;
+}
+
+.api{
+    color: white;
+    font-size: 30px;
+    font: Cursive;
+    font-style: italic;
+}
+
+.frases{
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    width: 10%;
+    padding: 10px 15px;
+}
+
+.apagar{
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    width: 10%;
+    padding: 5px 10px;
+}
