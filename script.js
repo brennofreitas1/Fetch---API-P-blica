@@ -1,10 +1,10 @@
-const btAdcionar = document.querySelector('#adcionar');
+const btAdicionar = document.querySelector('#adicionar');
 const api = document.querySelector('#api'); 
 const btLimpar = document.querySelector('#limpar');
 
 const url = 'https://api.kanye.rest';
 
-btAdcionar.addEventListener('click', (e)=>{
+btAdicionar.addEventListener('click', (e)=>{
     fetch(url)
     .then(response => response.json())
     .then(data=>{
